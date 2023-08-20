@@ -37,7 +37,7 @@
   </div>
    <h1> Devops Project Deployed successfully...!! </h1>
    <h2> Finally  Detecting changes automatically...****!! </h2>
-   <h1> Thankyou, Happy Learning .. changes detected !!! </h1>
+   <h1> Thankyou, Happy Learning .. changes detected.... !!! </h1>
 
   
 </form>
